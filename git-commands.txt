@@ -18,5 +18,5 @@ git commit -a
 Push:Send changes to the master branch of your remote repository
 git push origin master
 
-Status:List the files you've changed and those you still need to add or commit
+Status:List the files you've changed and those you still need to add or commit:
 git status
